@@ -70,6 +70,6 @@ This project is licensed under the MIT License — feel free to use and modify.
 
 ## 🧑‍💻 Author
 Yashwant Kumar Kashyap
-[GITHUB]()
+[GITHUB](https://github.com/Yashwantkashyap2005)
 
       
